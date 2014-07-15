@@ -2,3 +2,7 @@
 /.sass-cache/*
 *.DS_Store
 /stylesheets/*
+/vendor/bundle
+
+/public/vendor/bower_components/*
+/public/vendor/stylesheets/*
