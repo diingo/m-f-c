@@ -7,4 +7,8 @@ class MFC < Sinatra::Base
   get '/' do
     erb :index
   end
+
+  get '/profile' do
+    erb :profile
+  end
 end
